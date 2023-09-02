@@ -1,0 +1,4 @@
+*.json
+*.props
+*/obj
+*/bin

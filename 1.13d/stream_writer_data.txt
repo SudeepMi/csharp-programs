@@ -1,0 +1,2 @@
+Hello, StreamWriter!
+This is a test.
